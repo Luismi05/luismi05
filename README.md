@@ -54,6 +54,10 @@ Me especializo en **React** para el frontend y **Laravel** para el backend, crea
 
 ---
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Luismi05?cardType=github&theme=react&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+---
+
 ## 🤝 Conectemos
 📬 ¿Hablamos de proyectos o ideas?
 
