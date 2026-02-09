@@ -52,16 +52,6 @@ Me especializo en **React** para el frontend y **Laravel** para el backend, crea
 👉 Mira más en mi portafolio:  
 🔗 https://luismidev.online/
 
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://stats-github.vercel.app/api?username=luismi05&show_icons=true)
-
-![Top Langs](https://stats-github.vercel.app/api/top-langs?username=luismi05&layout=compact)](https://github-readme-stats.vercel.app/api?username=luismi05&show_icons=true)
-
-
 ---
 
 ## 🤝 Conectemos
