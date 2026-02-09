@@ -48,7 +48,6 @@ Me especializo en **React** para el frontend y **Laravel** para el backend, crea
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luismi05&show_icons=true&theme=tokyonight)
 
