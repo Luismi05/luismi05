@@ -48,13 +48,12 @@ Me especializo en **React** para el frontend y **Laravel** para el backend, crea
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luismi05&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismi05&layout=compact&theme=tokyonight" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luismi05&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismi05&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -62,7 +61,7 @@ Me especializo en **React** para el frontend y **Laravel** para el backend, crea
 📬 ¿Hablamos de proyectos o ideas?
 
 - 💼 LinkedIn: https://www.linkedin.com/in/luismi0296  
-- 🌐 Portfolio: https://luismidev.online/
+- 🌐 Portafolio: https://luismidev.online/
 
 ---
 
