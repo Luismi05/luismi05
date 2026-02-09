@@ -39,11 +39,19 @@ Me especializo en **React** para el frontend y **Laravel** para el backend, crea
 
 ---
 
+## 📈 Actividad
+✔️ Desarrollo activo en React y Laravel  
+✔️ Proyectos empresariales privados  
+✔️ Enfoque en calidad y escalabilidad
+
+---
+
 ## 📌 Proyectos Destacados
 🚧 *Siempre construyendo y mejorando proyectos reales con React + Laravel.*
 
 👉 Mira más en mi portafolio:  
 🔗 https://luismidev.online/
+
 
 ---
 
