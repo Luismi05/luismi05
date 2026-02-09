@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | React ⚛️ & Laravel 🐘</h3>
 
 <p align="center">
-  <a href="https://luismidev.online/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://luismidev.online/" target="_blank">🌐 Portafolio</a> •
   <a href="https://www.linkedin.com/in/luismi0296" target="_blank">💼 LinkedIn</a>
 </p>
 
